@@ -5,6 +5,7 @@ export default function Layout() {
     return (
         <div>
             <Header />
+            <h1>Home Page</h1>
             <Outlet />
         </div>
     );
